@@ -1,5 +1,6 @@
 # mB
 /*Four in a row game*/
+/*You will need "saved.txt" file*/
 
 #include <stdio.h>
 #include <string.h>
